@@ -2,3 +2,6 @@ Huy Nguyen
 
 to compile : make compile
 to run : make run
+
+Code will ask user to choose the selected view of the list of numbers which are provided in the text files. 
+These numbers can either be ordered, random or in reverse and the program will arrange them as chosen.
